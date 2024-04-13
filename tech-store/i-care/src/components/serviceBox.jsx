@@ -6,7 +6,7 @@ function serviceBox(props) {
       <div className='box'>
         <img src={props.image} alt="Service Image" />
       </div>
-        <h5>{props.text}</h5>
+        <h6>{props.text}</h6>
     </div>
   )
 }

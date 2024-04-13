@@ -200,13 +200,15 @@ body{
           }
 
 
-          #servicebox h5 {
+          #servicebox h6 {
             text-align: center;
             color: white;
-            font-size: 30px;
-            margin: 30px;
+            font-family: 'Anton';
+            letter-spacing: 0.1cap;
+            font-weight: 300;
+            font-size: 20px;
+            margin: 16px;
             text-wrap:wrap
-
           }
           .box {
             width: 100%;
