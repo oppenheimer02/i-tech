@@ -16,7 +16,7 @@ function Galery() {
       <img className='image' src={img1}   />
       <img  className='image' src={img1}  />
       <img  className='image' src={img3}  />  
-      <img  className='image' src={img4}  />
+      <img  className='image' src={img1}  />
       <img  className='image' src={img2}  />  
   
       <img  className='image' src={img1}  />  
@@ -24,7 +24,7 @@ function Galery() {
       <img  className='image' src={img3}  />  
       <img  className='image' src={img1}  />  
       <img  className='image' src={img1}  />  
-      <img  className='image' src={img4}  /> 
+      <img  className='image' src={img1}  /> 
       <img  className='image' src={img1}  />  
 </div>
           
