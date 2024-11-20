@@ -1,14 +1,19 @@
 import React from "react";
 import itemss from "./Itemss";
-import img6 from '../images/images6.png'
+import img6 from '../images/images6.png';
+import img7 from '..images/image7.png';
+
+
+
+
 
 function items() {
     return(
         <div id="pricing">
         <h1>Select Your Device</h1>
         <div id="item">
-        <items image = {img6}/>
-
+        <items image = {img6} text = 'Phones'/>
+        <items image = {img7} text = 'Tablets'/>
       
         </div>
         </div>
