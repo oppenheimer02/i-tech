@@ -7,6 +7,8 @@ import Infosection from './components/Infosection';
 import Contact from './components/Contact';
 import Galery from './components/Galery';
 import Footer from './components/Footer';
+import Pricing from './components/Pricing';
+import Itemss from './components/Itemss';
 
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
      <Contact/>
      <Galery/>
      <Footer/>
+     <Pricing/>
+     <Itemss/>
 
     </div>
   )
