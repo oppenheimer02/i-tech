@@ -1,13 +1,13 @@
 import React from "react";
 import itemss from "./Itemss";
-
+import img6 from '../images/images6.png'
 
 function items() {
     return(
         <div id="pricing">
         <h1>Select Your Device</h1>
         <div id="item">
-        <items image = {}/>
+        <items image = {img6}/>
 
       
         </div>
